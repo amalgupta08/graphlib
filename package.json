@@ -1,6 +1,6 @@
 {
   "name": "@amalgupta08/graphlib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A directed and undirected multi-graph library",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "lib/"
   ],
   "engines": {
-    "node": ">17.0.0"
+    "node": ">14.0.0"
   },
   "types": "index.d.ts",
   "keywords": [
@@ -55,5 +55,6 @@
   "directories": {
     "lib": "lib",
     "test": "test"
-  }
+  },
+  "dependencies": {}
 }
